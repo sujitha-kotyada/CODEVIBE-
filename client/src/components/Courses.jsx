@@ -435,9 +435,10 @@ const Courses = () => {
           </p>
         </div>
       )}
-      <Testimonials />
+      <Testimonials /><Testimonials />
       <FAQ/>
     </div>
+    
   );
 };
 
