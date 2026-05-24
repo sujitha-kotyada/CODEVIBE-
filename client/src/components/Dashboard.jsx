@@ -549,7 +549,7 @@ const Dashboard = () => {
   });
   const [avatarPreview, setAvatarPreview] = useState(user?.avatarUrl || "");
 
-  const email = user?.Email || user?.email || "";
+  const email = user?.email || "";
 
   useEffect(() => {
     if (!token || !email) return;
@@ -629,6 +629,14 @@ const Dashboard = () => {
   const handleAvatarUpload = async (event) => {
     const file = event.target.files?.[0];
     if (!file) return;
+
+    const MAX_AVATAR_SIZE_BYTES = 2 * 1024 * 1024;
+    if (file.size > MAX_AVATAR_SIZE_BYTES) {
+      setError("Avatar must be under 2MB");
+      return;
+    }
+
+    setError("");
     const reader = new FileReader();
     reader.onload = async () => {
       const result = reader.result;
@@ -794,7 +802,7 @@ const Dashboard = () => {
       <header className="dashboard-hero">
         <div>
           <p className="dashboard-subtitle">Welcome back</p>
-          <h1>Hi, {user.username || user.Email}</h1>
+          <h1>Hi, {user.username || user.email}</h1>
         </div>
       </header>
 

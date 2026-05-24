@@ -60,7 +60,7 @@ const SignUp = () => {
   const handleYearChange = (e) => {
     const value = e.target.value;
 
-    if (/^\d{0,4}$/.test(value)) {
+    if (/^[1-4]?$/.test(value)) {
       setYear(value);
 
       setErrors((prev) => ({
@@ -258,7 +258,7 @@ const SignUp = () => {
               type="text"
               value={year}
               onChange={handleYearChange}
-              maxLength={4}
+              maxLength={1}
               aria-invalid={!!errors.year}
               aria-describedby="year-error"
               style={{
