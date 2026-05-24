@@ -170,11 +170,17 @@ const SignUp = () => {
 
         {/* Left Image */}
         <div className="login-image">
-          <img
-            src={registerImage}
-            className="registerImage"
-            alt="Student Registration"
-          />
+         <img
+  src={registerImage}
+  className="registerImage"
+  alt="Student Registration"
+  loading="lazy"
+  style={{
+    width: "100%",
+    maxWidth: "500px",
+    height: "auto",
+  }}
+/>
         </div>
 
         {/* Signup Form */}

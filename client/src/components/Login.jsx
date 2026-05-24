@@ -100,7 +100,16 @@ const Login = () => {
       <div className="login-container">
 
         <div className="login-image">
-          <img src={loginImage} alt="Login" />
+        <img
+  src={loginImage}
+  alt="Login"
+  loading="lazy"
+  style={{
+    width: "100%",
+    maxWidth: "500px",
+    height: "auto",
+  }}
+/>
         </div>
 
         <div className="login-card">

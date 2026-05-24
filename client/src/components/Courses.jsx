@@ -313,16 +313,18 @@ const Courses = () => {
                   marginTop: '8px',
                 }}
               >
-                <img
-                  src={course.img}
-                  alt={course.title}
-                  className="course-img"
-                  style={{
-                    width: '80px',
-                    height: '80px',
-                    objectFit: 'contain',
-                  }}
-                />
+               <img
+  src={course.img}
+  alt={course.title}
+  loading="lazy"
+  className="course-img"
+  style={{
+    width: "100%",
+    maxWidth: "80px",
+    height: "80px",
+    objectFit: "contain",
+  }}
+/>
               </div>
 
               {/* Title */}
