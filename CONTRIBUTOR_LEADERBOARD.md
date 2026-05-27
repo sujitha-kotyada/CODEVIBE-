@@ -16,7 +16,7 @@ Last updated: 2026-05-27
 | --- | --- | ---: | ---: | ---: | ---: |
 | 1 | [@sricharan-213](https://github.com/sricharan-213) | 131 | 8 | 7 | 9 |
 | 2 | [@Aayuiiitmg](https://github.com/Aayuiiitmg) | 104 | 12 | 8 | 0 |
-| 3 | [@namrarafique93-del](https://github.com/namrarafique93-del) | 87 | 11 | 4 | 5 |
+| 3 | [@namrarafique93-del](https://github.com/namrarafique93-del) | 97 | 11 | 5 | 5 |
 | 4 | [@pranav-cholleti](https://github.com/pranav-cholleti) | 86 | 18 | 3 | 4 |
 | 5 | [@divyagsharma2006-blip](https://github.com/divyagsharma2006-blip) | 65 | 5 | 4 | 3 |
 | 6 | [@Mahi-19-design](https://github.com/Mahi-19-design) | 65 | 5 | 4 | 3 |
@@ -96,5 +96,6 @@ Last updated: 2026-05-27
 | 80 | [@Suhani-ai-dev](https://github.com/Suhani-ai-dev) | 5 | 0 | 0 | 1 |
 | 81 | [@SupriyaShirsat05](https://github.com/SupriyaShirsat05) | 5 | 0 | 0 | 1 |
 | 82 | [@tanvi1107](https://github.com/tanvi1107) | 5 | 0 | 0 | 1 |
-| 83 | [@varsha-2503](https://github.com/varsha-2503) | 5 | 0 | 0 | 1 |
-| 84 | [@yashvini-chirri](https://github.com/yashvini-chirri) | 5 | 0 | 0 | 1 |
+| 83 | [@vaibhav051422-collab](https://github.com/vaibhav051422-collab) | 5 | 0 | 0 | 1 |
+| 84 | [@varsha-2503](https://github.com/varsha-2503) | 5 | 0 | 0 | 1 |
+| 85 | [@yashvini-chirri](https://github.com/yashvini-chirri) | 5 | 0 | 0 | 1 |
