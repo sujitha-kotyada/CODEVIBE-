@@ -37,11 +37,11 @@ Last updated: 2026-05-28
 | 21 | [@indresh404](https://github.com/indresh404) | 32 | 6 | 1 | 2 |
 | 22 | [@jagrati7305](https://github.com/jagrati7305) | 31 | 3 | 2 | 1 |
 | 23 | [@tazmeen24](https://github.com/tazmeen24) | 29 | 7 | 1 | 1 |
-| 24 | [@shreyamevada6](https://github.com/shreyamevada6) | 26 | 3 | 1 | 2 |
-| 25 | [@RishiMaskare](https://github.com/RishiMaskare) | 24 | 2 | 1 | 2 |
-| 26 | [@Kartikey-Pathak](https://github.com/Kartikey-Pathak) | 22 | 1 | 1 | 2 |
-| 27 | [@Mudita-Singh](https://github.com/Mudita-Singh) | 22 | 1 | 1 | 2 |
-| 28 | [@ravishankar-03](https://github.com/ravishankar-03) | 22 | 1 | 1 | 2 |
+| 24 | [@ravishankar-03](https://github.com/ravishankar-03) | 27 | 1 | 1 | 3 |
+| 25 | [@shreyamevada6](https://github.com/shreyamevada6) | 26 | 3 | 1 | 2 |
+| 26 | [@RishiMaskare](https://github.com/RishiMaskare) | 24 | 2 | 1 | 2 |
+| 27 | [@Kartikey-Pathak](https://github.com/Kartikey-Pathak) | 22 | 1 | 1 | 2 |
+| 28 | [@Mudita-Singh](https://github.com/Mudita-Singh) | 22 | 1 | 1 | 2 |
 | 29 | [@pratiyushraj007-Dev](https://github.com/pratiyushraj007-Dev) | 21 | 3 | 1 | 1 |
 | 30 | [@Mradul-0605](https://github.com/Mradul-0605) | 20 | 0 | 1 | 2 |
 | 31 | [@shivani11jadhav](https://github.com/shivani11jadhav) | 20 | 0 | 1 | 2 |
